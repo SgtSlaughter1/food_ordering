@@ -12,10 +12,10 @@ export default {
     data() {
         return {
             dishes: [
-                { id: 1, name: 'Spaghetti', price: 10, image: '/src/assets/images/pasta.jpg', description: 'Delicious pasta with tomato sauce' },
-                { id: 2, name: 'Pancake', price: 12, image: '/src/assets/images/pancake.jpg', description: 'Cheesy pizza with pepperoni' },
-                { id: 3, name: 'Pizza', price: 15, image: '/src/assets/images/pizza.jpg', description: 'Cheesy pizza with pepperoni' },
-                { id: 4, name: 'Fried Rice', price: 20, image: '/src/assets/images/fried-rice.jpg', description: 'Cheesy pizza with pepperoni' },
+                { id: 1, name: 'Spaghetti', price: 10, image: '/images/pasta.jpg', description: 'Delicious pasta with tomato sauce' },
+                { id: 2, name: 'Pancake', price: 12, image: '/images/pancake.jpg', description: 'Cheesy pizza with pepperoni' },
+                { id: 3, name: 'Pizza', price: 15, image: '/images/pizza.jpg', description: 'Cheesy pizza with pepperoni' },
+                { id: 4, name: 'Fried Rice', price: 20, image: '/images/fried-rice.jpg', description: 'Cheesy pizza with pepperoni' },
             ],
         };
     },
